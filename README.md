@@ -9,6 +9,8 @@ try to install c++ as an extension in vscode and try to run the code
 OR
 Reinstall VS Code with c++ build tools and other necessary tools, here's a reference:
 
+![image](https://github.com/mr-nobody15/Text2SQL_prompt/assets/70313481/bfbb5143-2c41-4917-ab4a-ea429df170ec)
+
 Just in case you don't have VS installer, you can find it with Download Build Tools from visualstudio.microsoft.com/visual-cpp-build-tools.
 
 Then, use the following command:
@@ -34,3 +36,5 @@ This is a "Prompt" based chatbot or Prompt Engineering based application utilise
 # Why this selected model?
 ![image](https://github.com/mr-nobody15/Text2SQL_prompt/assets/70313481/d1bacd5a-db55-4f7c-bdeb-c2fcf0c69649)
 According to the above diagram, gpt-4 a closed Model requires API key and other details to access it whereas our selected model performance is about as good as the predecessor of GPT-4 and since it is open-sourced we can use it as a local model for any text generation related tasks.
+
+
